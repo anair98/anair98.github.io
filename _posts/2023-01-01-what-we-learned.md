@@ -16,4 +16,4 @@ title: What We Learned
 
 ## **Ajay Nair:**
 
-> "Importantance and Benefit of Agile Based development, software development cycle, static website development, various levels of testing, and version control."
+> "Importance and Benefit of Agile Based development, software development cycle, static website development, various levels of testing, and version control."
