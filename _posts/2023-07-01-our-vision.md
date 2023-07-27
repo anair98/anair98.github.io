@@ -6,9 +6,9 @@ Providing appliance retailers an easy-to-use app to manage and view their invent
 
 ## **What is the InvenTracker?**
 
-The RTE (Run-Time-Error) InvenTracker is a **comprehensive Inventory Management System** program designed to cater to the **specific needs of e-commerce businesses specializing in appliances**, including dishwashers, washers and dryer machines, and smaller appliances like microwaves.
-
-The system provides tools to **efficiently manage multiple warehouses and multiple categories of appliances**. By offering real-time tracking of **inventory quantity, location, and status**, the application **enables businesses** to make **informed decisions regarding stock management**.
+> The RTE (Run-Time-Error) InvenTracker is a **comprehensive Inventory Management System** program designed to cater to the **specific needs of e-commerce businesses specializing in appliances**, including dishwashers, washers and dryer machines, and smaller appliances like microwaves.
+>
+> The system provides tools to **efficiently manage multiple warehouses and multiple categories of appliances**. By offering real-time tracking of **inventory quantity, location, and status**, the application **enables businesses** to make **informed decisions regarding stock management**.
 
 ## **Who are the users?**
 
@@ -45,12 +45,16 @@ Our user base would entail a combination of
 
 The success of the RTE InvenTracker will be measured based on the achievement of the following criteria:
 
-- ... **easily view, filter and sort inventory** across any warehouse based on various criteria, such as appliance type or brand name.
+- **Safeguarding of the app through a password-protected login screen.**
 
-- ... **schedule the movement of inventory between warehouses** in just a few clicks.
+- **Restrict access to volatile action to certain users.**
 
-- ... **effortlessly view available storage space at any warehouse**.
+- **View, Filter and Sort Inventory**
 
-- ... **seamlessly switch between warehouses**, enabling efficient management of individual inventories.
+- **Import, Export and Transport Inventory between Warehouses**
 
-- By meeting these success criteria, the RTE InvenTracker will **empower e-commerce businesses with a powerful and professional inventory management solution** to streamline their supply chain, address inefficiencies, and optimize overall performance.
+- **View Capacity, Space in Use, and Available Space at all Warehouses**.
+
+- **The ability to add new Categories and Products**
+
+> By meeting these success criteria, the RTE InvenTracker will **empower e-commerce businesses with a powerful and professional inventory management solution** to streamline their supply chain, address inefficiencies, and optimize overall performance.
