@@ -5,7 +5,13 @@ author:
 
 ## Implementing Inferfaces Early On
 
-Implementing interfaces early in the development process was a beneficial strategic decision that allowed for more modularity and abstracion in our code organization. Interfaces also defined formal contracts, promoting collaboration among team members and enabled parallel development. This simplified testing, reduced coupling, and enhanced code flexibility for future changes. By adhering to interfaces, we achieved high level of achieve extensibility and reusability, while also provided effective documentation and facilitated efficient communication among our group members. Overall, this approach set a strong foundation for building scalable, maintainable, and agile approach to our project development this summer.
+Implementing interfaces early in the development process was a beneficial strategic decision that allowed for more modularity and abstracion in our code organization. Interfaces also defined formal contracts, promoting collaboration among team members and enabled parallel development.
+
+This simplified testing, reduced coupling, and enhanced code flexibility for future changes.
+
+By adhering to interfaces, we achieved high level of achieve extensibility and reusability, while also provided effective documentation and facilitated efficient communication among our group members.
+
+Overall, this approach set a strong foundation for building scalable, maintainable, and agile approach to our project development this summer.
 
 ## Design Patterns Usage Examples
 
